@@ -93,7 +93,7 @@ py3                      D:\Development\Anaconda3\envs\py3
 
 ## #package(包)管理
 
-### #查找可供安装的package版本
+### 1.查找可供安装的package版本
 
 1. 精确查找
 ```cmd
